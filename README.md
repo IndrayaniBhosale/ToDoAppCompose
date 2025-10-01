@@ -34,7 +34,6 @@ It demonstrates **data classes, state management, state hoisting, recomposition,
 | ![todo-list](screenshots/todo-list.png) | ![empty-state](screenshots/empty-state.png) |
 
 
-
 ---
 
 ## 📂 Project Structure
@@ -53,6 +52,20 @@ app/
 ## ▶️ How to Run
 1. Clone this repo:
    ```bash
-   git clone https://github.com/<your-username>/ToDoAppCompose.git
+   git clone https://github.com/IndrayaniBhosale/ToDoAppCompose.git
 Open in Android Studio (Arctic Fox or newer).
 Build & Run on emulator or physical device.
+
+---
+
+## 📖 Learning Objectives Achieved
+- Model UI data with data classes
+- Manage state with Compose state APIs
+- Apply state hoisting for reusable UI
+- Use Material 3 components for clean layouts
+- Understand recomposition and data flow
+
+---
+
+## 📌 Author
+Built by Indrayani Bhosale for Fall 2025 – CPSC 411A-02 (17521) Mobile Device Application Programming for Android.
