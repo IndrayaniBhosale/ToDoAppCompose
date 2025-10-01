@@ -33,7 +33,7 @@ It demonstrates **data classes, state management, state hoisting, recomposition,
 |--------------------------|--------------|
 | ![todo-list](screenshots/todo-list.png) | ![empty-state](screenshots/empty-state.png) |
 
-*(Add emulator screenshots to a `/screenshots` folder and update paths.)*
+
 
 ---
 
